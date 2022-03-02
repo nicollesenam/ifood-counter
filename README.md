@@ -72,5 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # About the Ifood Counter
 
-A simple project represeting the ifood counter when you add items in your cart.
+A simple project represeting the ifood counter when you add items in your cart. The code source can be checked [here](https://github.com/nicollesenam/ifood-counter/tree/master/src).
+![gif](https://user-images.githubusercontent.com/82225853/156380749-d30de6f5-8c2f-4157-92f1-e00a5c6ecffd.gif)
 
